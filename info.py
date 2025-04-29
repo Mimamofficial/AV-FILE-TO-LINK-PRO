@@ -67,7 +67,7 @@ PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
 SLEEP_THRESHOLD = int(getenv('SLEEP_THRESHOLD', '60'))
 
 # Online Stream and Download
-BIND_ADDRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
+BIND_ADDRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '69.62.114.50:2626'))
 WORKERS = int(getenv('WORKERS', '4'))
 MULTI_CLIENT = False
 name = str(environ.get('name', 'avbotz'))
