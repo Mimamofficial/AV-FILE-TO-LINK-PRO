@@ -1,7 +1,7 @@
 class script(object):
-    START_TXT = """<b>Hᴇʏ {}, \n\n<i>I Aᴍ Tᴇʟᴇɢʀᴀᴍ Fɪʟᴇ Tᴏ Lɪɴᴋ Gᴇɴᴇʀᴀᴛᴏʀ Bᴏᴛ, Jᴜsᴛ Fᴏʀᴡᴀʀᴅ Aɴʏ Mᴇᴅɪᴀ Oʀ Vɪᴅᴇᴏ Tᴏ Gᴇᴛ Dɪʀᴇᴄᴛ Dᴏᴡɴʟᴏᴀᴅ Aɴᴅ Sᴛʀᴇᴀᴍ Lɪɴᴋ.
+    START_TXT = """<b>Hᴇʏ {}, \n\n<b>I Aᴍ Tᴇʟᴇɢʀᴀᴍ Fɪʟᴇ Tᴏ Lɪɴᴋ Gᴇɴᴇʀᴀᴛᴏʀ Bᴏᴛ, Jᴜsᴛ Fᴏʀᴡᴀʀᴅ Aɴʏ Mᴇᴅɪᴀ Oʀ Vɪᴅᴇᴏ Tᴏ Gᴇᴛ Dɪʀᴇᴄᴛ Dᴏᴡɴʟᴏᴀᴅ Aɴᴅ Sᴛʀᴇᴀᴍ Lɪɴᴋ.
 
-I Aʟsᴏ Wᴏʀᴋ Iɴ Cʜᴀɴɴᴇʟs Aɴᴅ Gʀᴏᴜᴘ 😁.</i>\n\n<blockquote><a href=https://t.me/{}?startchannel&admin=post_messages+edit_messages+delete_messages>➜ 𝖠𝖽𝖽 𝖳𝗈 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a></blockquote></b>"""
+I Aʟsᴏ Wᴏʀᴋ Iɴ Cʜᴀɴɴᴇʟs Aɴᴅ Gʀᴏᴜᴘ 😁.</b>\n\n<blockquote><a href=https://t.me/{}?startchannel&admin=post_messages+edit_messages+delete_messages>➜ 𝖠𝖽𝖽 𝖳𝗈 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a></blockquote></b>"""
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
