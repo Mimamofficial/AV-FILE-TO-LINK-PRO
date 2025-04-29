@@ -11,7 +11,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'Webavbot')
 API_ID = int(environ.get('API_ID', '23631217'))
 API_HASH = environ.get('API_HASH', '567c6df308dc6901790309499f729d12')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7547867927:AAG_hm6Ph6twBRy0-wW0d9ggMQni-NojpQg")
 BOT_USERNAME = environ.get("BOT_USERNAME", 'MRN_F2LBOT') # without @ 
 
 # Admins, Channels & Users
