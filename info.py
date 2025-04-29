@@ -80,9 +80,9 @@ else:
 FQDN = str(getenv('FQDN', BIND_ADDRESS)) if not ON_HEROKU or getenv('FQDN', '') else APP_NAME+'.herokuapp.com'
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://av-file-to-link-pro-i5au.onrender.com".format(FQDN)
+    URL = "https://subjective-silvana-mimammz-56d5e799.koyeb.app/".format(FQDN)
 else:
-    URL = "https://av-file-to-link-pro-i5au.onrender.com".format(FQDN, "" if NO_PORT else ":" + str(PORT))
+    URL = "https://subjective-silvana-mimammz-56d5e799.koyeb.app/".format(FQDN, "" if NO_PORT else ":" + str(PORT))
       
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
