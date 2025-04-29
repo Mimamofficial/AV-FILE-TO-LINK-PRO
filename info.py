@@ -67,7 +67,7 @@ PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
 SLEEP_THRESHOLD = int(getenv('SLEEP_THRESHOLD', '60'))
 
 # Online Stream and Download
-BIND_ADDRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '69.62.114.50:2626'))
+BIND_ADDRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
 WORKERS = int(getenv('WORKERS', '4'))
 MULTI_CLIENT = False
 name = str(environ.get('name', 'avbotz'))
@@ -80,9 +80,9 @@ else:
 FQDN = str(getenv('FQDN', BIND_ADDRESS)) if not ON_HEROKU or getenv('FQDN', '') else APP_NAME+'.herokuapp.com'
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://{}/".format(FQDN)
+    URL = "https://av-file-to-link-pro-i5au.onrender.com".format(FQDN)
 else:
-    URL = "http://{}{}/".format(FQDN, "" if NO_PORT else ":" + str(PORT))
+    URL = "https://av-file-to-link-pro-i5au.onrender.com".format(FQDN, "" if NO_PORT else ":" + str(PORT))
       
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
