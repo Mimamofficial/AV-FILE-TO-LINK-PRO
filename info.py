@@ -51,7 +51,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "rupper185")
 
 # fsub  information
 AUTH_PICS = environ.get('AUTH_PICS', 'https://files.catbox.moe/thgyd5.jpg')              
-AUTH_CHANNEL = (environ.get("AUTH_CHANNEL", "-1002528229701"))
+AUTH_CHANNEL = (environ.get("AUTH_CHANNEL", "-1002745555397"))
 FSUB = environ.get("FSUB", True)
 
 # port information
