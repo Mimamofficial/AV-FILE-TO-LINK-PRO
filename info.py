@@ -24,7 +24,7 @@ OWNER_USERNAME = environ.get("OWNER_USERNAME", 'mimam_officialx') # without @
 PICS = environ.get('PICS', 'https://files.catbox.moe/ualaen.jpg')
 
 # channel link information
-CHANNEL = environ.get('CHANNEL', 'https://t.me/MRN_RIPPER')
+CHANNEL = environ.get('CHANNEL', 'https://t.me/Mrn_Officialx')
 SUPPORT = environ.get('SUPPORT', 'https://t.me/Tv_Serial_Search_Group')
 
 #Dont Remove My Credit @AV_BOTz_UPDATE 
